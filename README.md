@@ -1,6 +1,6 @@
 # Vizora by PeekingCat
 
-Official Windows installer and update distribution for Vizora.
+Official Windows Setup.exe installer and update distribution for Vizora. Portable builds and portable ZIP files are not published here.
 
 The first public installer is being prepared and is not available yet.
 When published, installers will appear on the [Releases page](https://github.com/mik799/Vizora-releases/releases).
